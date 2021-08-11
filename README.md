@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Enterprise
 - 🌱 I’m currently learning design patterns, data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me raytabuan@gmailcom
 
 <!---
 raytabuan/raytabuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
